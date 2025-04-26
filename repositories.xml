@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>gnome2-legacy</name>
+    <description>Legacy GNOME 2 packages for modern Gentoo</description>
+    <homepage>https://gitlab.com/your-username/gnome2-legacy-overlay</homepage>
+    <owner>
+      <name>Your Name</name>
+      <email>your.email@example.com</email>
+    </owner>
+    <source type="git">https://gitlab.com/your-username/gnome2-legacy-overlay.git</source>
+  </repo>
+</repositories>

@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-applets/gnome-applets-2.32.1.1-r1.ebuild,v 1.7 2012/10/28 15:50:24 armin76 Exp $
 
-EAPI="4"
+EAPI=8"
 GCONF_DEBUG="no"
 GNOME_TARBALL_SUFFIX="bz2"
 PYTHON_DEPEND="2:2.5"

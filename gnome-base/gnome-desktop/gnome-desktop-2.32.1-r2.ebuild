@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-desktop/gnome-desktop-2.32.1-r2.ebuild,v 1.4 2013/12/08 18:28:37 pacho Exp $
 
-EAPI="5"
+EAPI=8"
 GCONF_DEBUG="yes"
 GNOME2_LA_PUNT="yes"
 GNOME_TARBALL_SUFFIX="bz2"

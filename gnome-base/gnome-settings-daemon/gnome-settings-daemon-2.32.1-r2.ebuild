@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-settings-daemon/gnome-settings-daemon-2.32.1-r2.ebuild,v 1.10 2013/01/22 07:37:37 tetromino Exp $
 
-EAPI="4"
+EAPI=8"
 GCONF_DEBUG="yes"
 GNOME2_LA_PUNT="yes"
 GNOME_TARBALL_SUFFIX="bz2"

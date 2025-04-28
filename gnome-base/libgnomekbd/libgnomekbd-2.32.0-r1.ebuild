@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/libgnomekbd/libgnomekbd-2.32.0-r1.ebuild,v 1.4 2012/05/21 18:57:27 tetromino Exp $
 
-EAPI="4"
+EAPI=8"
 GCONF_DEBUG="no"
 GNOME2_LA_PUNT="yes"
 GNOME_TARBALL_SUFFIX="bz2"

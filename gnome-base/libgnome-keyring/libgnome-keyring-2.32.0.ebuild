@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/libgnome-keyring/libgnome-keyring-2.32.0.ebuild,v 1.17 2012/12/17 04:46:05 tetromino Exp $
 
-EAPI="4"
+EAPI=8"
 GCONF_DEBUG="yes"
 GNOME_TARBALL_SUFFIX="bz2"
 

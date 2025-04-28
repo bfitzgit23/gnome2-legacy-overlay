@@ -9,6 +9,6 @@
       <name>Your Name</name>
       <email>your.email@example.com</email>
     </owner>
-    <source type="git">https://github.com/bfitzgit23/gnome2-legacy-overlay.git</source>
+    <source type="git">https://gitlab.com/your-username/gnome2-legacy-overlay.git</source>
   </repo>
 </repositories>

@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: /var/cvsroot/gentoo-x86/gnome-base/gnome-session/gnome-session-2.32.1-r3.ebuild,v 1.11 2013/01/22 05:40:33 tetromino Exp $
 
-EAPI="4"
+EAPI=8"
 GCONF_DEBUG="yes"
 GNOME_TARBALL_SUFFIX="bz2"
 
